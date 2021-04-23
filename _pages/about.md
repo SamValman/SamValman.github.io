@@ -22,4 +22,4 @@ The Centre of Docturnal training provides a Masters of Research and a PhD in a c
 
 My research is focused on using medium grain Thermal Infared Satellite Remote Sensing to understand changes in stream temperature. Dam and powerplants rely heavily on river temperature models to meet regulatory standards, maintain efficiency, combat climate change and reduce environmental impacts. However, most of these models rely on seasonal proxies or extrapolate results from a few insitu monitors therefore it is our intention to use satellite remote sensing to plug this data gap and in the process understand inefficiencies in the system. To do this will require processing in [Google Earth Eninge](https://earthengine.google.com/) using the Python API. 
 
-![Literature review based poster created during research formation](/images/About_me_poster.pdf)
+![Literature review based poster created during research formation](/images/About_me_poster.png)
