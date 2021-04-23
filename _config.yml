@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sam Valman"
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   bio              : "PhD student studying Geospatial Systems in the schools of Engineering and Geography at the University of Nottingham. Researching satellite remote sensing of river systems and the industrial applications of these data."
   location         : "Nottingham, UK"
   employer         :
