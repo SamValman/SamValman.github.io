@@ -11,49 +11,71 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD, University of Nottingham, 2024 (expected)
+* MRes, University of Nottingham, 2021 (expected)
+* MSc by research, University of Nottingham, 2020 
+* BSc (Hons) Geography, University of Nottingham, 2018
+* A*AA A-levels in History, Maths and Geography, Vyners Secondary School, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* University of Nottingham/Portland State/USGS: Research Assistant, 2020-present
+  * Extended [Alluvial Phase Space Diagram work]() on the North Fork Toutle and Lower Mississippi River
+  * Created Prof. [Colin Thorne]()'s Wikipedia page to display the Blue-Green project which had been accidentally removed by Wikipedia. 
+  * Working on a Stage-Zero floodplain reconnection information dissemination project
+  * Data gatherer for REF reports on Blue-Green cities project and Costa Rica vs Nicaragua ICJ case
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Wychus Creek, USA, 2018: 
+  * Upper Deschutes Watershed Council
+  * Assessed Stage Zero Restoration project 
+  * Total station surveys, vegetation transects, benthic biological monitoring
+
+* North-West leicestershire District Council, 2020:
+  * Administative Assistant for Housing department
+  * Built Excel sheets to blend incoming and complete repair work with maintenance cycles
+
+* Volunteer Nottinghamshire Wildlife Trust, 2019-2020:
+  * Minor 2 Major project 
+  * Reptile Surveys at Rainworth Heath
+  * Scrub bashing and similar conservation work
+
+* Groundwork South, 2013-2020:
+  * Wrote articles on river restoration carried out in the Colne Valley
+  * Party leader for children's nature parties 
+  * Organised food and music festivals 
+  * Cafe staff
+
+* Ruislip Woods, 2012-2015
+  * Helped organise annual woods festival
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * R
+  * SQL
+  * HTML 
+  * Google Earth Engine (Python)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* GIS
+  * QGIS
+  * Arc Pro
+
+* Excel
+
+* RTK GPS
+
+
   
-Talks
+
+Outreach
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* River Process days with schools visiting the University
   
-Teaching
+Additional interests 
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Great Britain Freestyle Kayak team, 2017-present 
+  * Competed at the World Cup in Sort 2018 and European Cup in Millau 2017
+
+* President of UoN Canoe Polo 2018
