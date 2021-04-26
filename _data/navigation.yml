@@ -6,11 +6,10 @@ main:
     url: /year-archive/   
     
   - title: "Research Assistant"
-    url: /portfolio/
+    url: /ra/
         
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+
