@@ -14,7 +14,7 @@ Education
 * PhD, University of Nottingham, 2024 (**expected**)
 * MRes, University of Nottingham, 2021 (**expected**)
 * Distinction MSc by research, University of Nottingham, 2020
-  * Environmental management in practice (1st)
+  * Environmental management in practice module
   * Techniques in Geographical research module
     * Statistics, ArcGIS, SPSS
 * BSc (Hons) Geography, University of Nottingham, 2018
