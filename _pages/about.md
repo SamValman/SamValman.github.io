@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm part of the second year EPSRC fundended Geospatial Systems PhD cohort based at the University of Nottingham and twinned with Newcastle University. My focus is on satellite remote sensing of freshwater systems especially in regards to thermal infrared sensors on the Landsat and ASTER (Terra) missions. 
+I'm part of the second EPSRC fundended Geospatial Systems PhD cohort based at the University of Nottingham and twinned with Newcastle University. My focus is on satellite remote sensing of freshwater river systems especially in regards to thermal infrared sensors on the Landsat and ASTER (Terra) missions. 
 
 I graduated from the University of Nottingham with a BSc (Hons) in Geography in 2018 and gained a Distinction in a MSc (By Research) in 2019, also from the University of Nottingham. In both of these my focus was on Hydrogeomorphology of riverine systems. I have concurrently been a research asssistant working on visualising and testing channel change models, Blue-Green infastructure, and Stage Zero Floodplain reconnection. 
 
