@@ -54,7 +54,7 @@ Work experience
   * Scrub bashing and similar conservation work
 
 * Groundwork South, 2013-2020:
-  * Wrote articles on river restoration carried out in the Colne Valley
+  * Wrote [articles](http://colnecan.org.uk/index.php/all-news/564-river-improvement-works-at-uxbridge-moor) on river restoration carried out in the Colne Valley
   * Party leader for children's nature parties 
   * Organised food and music festivals 
   * Cafe staff
