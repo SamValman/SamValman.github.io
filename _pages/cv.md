@@ -18,8 +18,8 @@ Education
   * Techniques in Geographical research module
     * Statistics, ArcGIS, SPSS
 * BSc (Hons) Geography, University of Nottingham, 2018
-  * Total Station Surveying North Fork Toutle River for USGS
-  * Large wood and groundwater Surveys for Plas Newydd mitigation credit scheme
+  * Total station surveying North Fork Toutle River for USGS
+  * Large wood and groundwater surveys for Plas Newydd mitigation credit scheme
   * River management and restoration module
   * Environmental informatics and modelling
   * ArcGIS
@@ -30,7 +30,7 @@ Work experience
 ======
 * University of Nottingham/Portland State/USGS: Research Assistant, 2020-present
   * Extended [Alluvial Phase Space Diagram work](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JF004843) on the North Fork Toutle and Lower Mississippi River
-  * Created Prof. [Colin Thorne](https://www.nottingham.ac.uk/geography/people/colin.thorne)'s Wikipedia page to display the Blue-Green project which had been accidentally removed by Wikipedia. 
+  * Created Prof. [Colin Thorne](https://www.nottingham.ac.uk/geography/people/colin.thorne)'s Wikipedia page to display the Blue-Green project which had been accidentally removed by Wikipedia 
   * Working on a Stage-Zero floodplain reconnection information dissemination project
   * Data gatherer for REF reports on Blue-Green cities project and Costa Rica vs Nicaragua ICJ case
     * QGIS
@@ -46,7 +46,7 @@ Work experience
   * Built Excel sheets to blend incoming and complete repair work with maintenance cycles
 
 * Clean Rivers Trust 2019 
-  * Fieldwork assistant to Dr Matt Johnson measuring the success of a natural restoration approach to tar pits found to have Great Crested Newts.
+  * Fieldwork assistant to Dr. Matt Johnson measuring the success of a natural restoration approach for tar pits where Great Crested Newts had been found.
 
 * Volunteer Nottinghamshire Wildlife Trust, 2019-2020:
   * Minor 2 Major project 
