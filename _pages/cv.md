@@ -66,11 +66,12 @@ Work experience
   
 Skills
 ======
-* Programming
+* Programming/coding
   * Python
   * R
   * SQL
   * HTML 
+  * CSS
   * Google Earth Engine (Python)
 
 * GIS
