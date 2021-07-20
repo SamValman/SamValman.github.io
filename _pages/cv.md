@@ -29,9 +29,10 @@ Education
 Work experience
 ======
 * University of Nottingham/Portland State/USGS: Research Assistant, 2020-present
+  * Wrote the [www.StageZeroRiverRestoration.com](http://www.stagezeroriverrestoration.com) webpage to desseminate knowledge on Stage-Zero floodplain reconnection   
   * Extended [Alluvial Phase Space Diagram work](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JF004843) on the North Fork Toutle and Lower Mississippi River
   * Created Prof. [Colin Thorne](https://www.nottingham.ac.uk/geography/people/colin.thorne)'s Wikipedia page to display the Blue-Green project which had been accidentally removed by Wikipedia 
-  * Working on a Stage-Zero floodplain reconnection information dissemination project
+  
   * Data gatherer for REF reports on Blue-Green cities project and Costa Rica vs Nicaragua ICJ case
     * QGIS
 
