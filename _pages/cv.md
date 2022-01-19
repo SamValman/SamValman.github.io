@@ -13,7 +13,12 @@ Education
 ======
 * PhD, University of Nottingham, 2024 (**expected**)
 * MRes, University of Nottingham, 2021
+  * Dissertation: River temperature from space
+  * Data at scale (Big data and PostgreSQL)
+  * Business analytics (statistics using Python)
+  * Geospatial Data, Sensors and Platforms
 * Distinction MSc by research, University of Nottingham, 2020
+  * Dissertation: River classification through hierarchical cluster analysis
   * Environmental management in practice module
   * Techniques in Geographical research module
     * Statistics, ArcGIS, SPSS
@@ -68,7 +73,7 @@ Work experience
 Skills
 ======
 * Programming/coding
-  * Python
+  * Python (artifical intelligence, Neural Networks and Tensorflow)
   * R
   * SQL
   * HTML 
