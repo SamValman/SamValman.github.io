@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * PhD, University of Nottingham, 2024 (**expected**)
-* MRes, University of Nottingham, 2021 (**expected**)
+* MRes, University of Nottingham, 2021
 * Distinction MSc by research, University of Nottingham, 2020
   * Environmental management in practice module
   * Techniques in Geographical research module
